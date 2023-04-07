@@ -20,4 +20,4 @@ For PhD student, yearly assessment can be searched in the link:https://intranet.
 
 Reimbursement
 ---------------------------------
-For travel cost or others to reimbursement, first check the <code> Guidance for travel reimbursement.pptx </code> file, and then go to the link 
+For travel cost or others to reimbursement, first check the <code> Guidance for travel reimbursement.pptx </code> file, and then check the <code> Reimbursement.doc </code> file
