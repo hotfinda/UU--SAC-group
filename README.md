@@ -10,7 +10,7 @@ Snellius
 ------------------------------------
 Snellius belongs to Dutch Computing Resource, it consists of multiple Tesla A100 GPUs, you can use it to run big experiments. If you are the first time to use it, see <code>Snellius_usage.doc</code> for more details about application and usage.
 
-Template
+Presentation Template
 ----------------------
 To do formal presentations or discussion, you can use the template in the link: https://www.uu.nl/en/organisation/corporate-identity/downloads/powerpoint-keynote 
 
