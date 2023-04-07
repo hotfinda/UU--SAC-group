@@ -14,3 +14,10 @@ Presentation Template
 ----------------------
 To do formal presentations or discussion, you can use the template in the link: https://www.uu.nl/en/organisation/corporate-identity/downloads/powerpoint-keynote 
 
+GO/No-GO Assessment
+-------------------------
+For PhD student, yearly assessment can be searched in the link:https://intranet.uu.nl/en/knowledgebase/assessment-and-development-interview?check_logged_in=1
+
+Reimbursement
+---------------------------------
+For travel cost or others to reimbursement, first check the <code> Guidance for travel reimbursement.pptx </code> file, and then go to the link 
