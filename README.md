@@ -21,3 +21,13 @@ For PhD student, yearly assessment can be searched in the link:https://intranet.
 Reimbursement
 ---------------------------------
 For travel cost or others to reimbursement, first check the <code> Guidance for travel reimbursement.pptx </code> file, and then check the <code> Reimbursement.doc </code> file
+
+Compulsory course
+---------------------------------
+Click the link to see the compulsory course for the new PhD students
+https://www.uu.nl/en/organisation/graduate-school-of-natural-sciences/phd/phd-candidates/phd-education
+
+TSA credits requirements
+---------------------------------
+Click the link:https://myphd.uu.nl/login/index.php
+Go to MyPhD->Research Phase->Plans to do. Choose the type of activity to see how many credits you can earn. Generally it needs 20 credits.
